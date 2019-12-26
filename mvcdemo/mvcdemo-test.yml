@@ -1,3 +1,12 @@
 fs:
   name:
-    fs
+    fengshuai
+spring:
+  data:
+    mongodb:
+      host: 10.41.1.167
+      port: 27017
+      username: feng
+      password: feng
+      database: test
+      authentication-database: test
